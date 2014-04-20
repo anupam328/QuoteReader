@@ -1,0 +1,4 @@
+QuoteReader
+===========
+
+Elementary Android App
